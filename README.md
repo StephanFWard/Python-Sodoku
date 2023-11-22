@@ -13,7 +13,7 @@ This Python project provides a Sudoku solver using a backtracking algorithm. Giv
 
    Navigate to the project directory:
 
-   cd sudoku-solver
+   cd Python-Sodoku
 
    Run the Sudoku solver script:
 
