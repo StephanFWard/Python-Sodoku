@@ -9,7 +9,7 @@ This Python project provides a Sudoku solver using a backtracking algorithm. Giv
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   git clone https://github.com/StephanFWard/Python-Sodoku.git
 
    Navigate to the project directory:
 
